@@ -1,0 +1,3 @@
+# BCI Wheelchair Project
+
+Instructions to run the system...
